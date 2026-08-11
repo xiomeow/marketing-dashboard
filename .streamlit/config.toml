@@ -1,0 +1,14 @@
+# 화면 색 — 밝은 화면 기준입니다
+[theme]
+base = "light"
+primaryColor = "#c93872"             # 강조 핑크 (흰 배경에서도 읽히게 진하게)
+backgroundColor = "#f6f7fa"          # 바탕
+secondaryBackgroundColor = "#ffffff" # 카드·사이드바
+textColor = "#1a1c24"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
